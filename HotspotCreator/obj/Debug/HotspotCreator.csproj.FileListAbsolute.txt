@@ -1,0 +1,42 @@
+F:\MyWebsite\HotspotCreator\HotspotCreator\bin\Debug\HotspotCreator.exe.config
+F:\MyWebsite\HotspotCreator\HotspotCreator\bin\Debug\HotspotCreator.exe
+F:\MyWebsite\HotspotCreator\HotspotCreator\bin\Debug\HotspotCreator.pdb
+F:\MyWebsite\HotspotCreator\HotspotCreator\obj\Debug\HotspotCreator.csprojResolveAssemblyReference.cache
+F:\MyWebsite\HotspotCreator\HotspotCreator\obj\Debug\MainWindow.baml
+F:\MyWebsite\HotspotCreator\HotspotCreator\obj\Debug\MainWindow.g.cs
+F:\MyWebsite\HotspotCreator\HotspotCreator\obj\Debug\App.g.cs
+F:\MyWebsite\HotspotCreator\HotspotCreator\obj\Debug\HotspotCreator_MarkupCompile.cache
+F:\MyWebsite\HotspotCreator\HotspotCreator\obj\Debug\HotspotCreator.g.resources
+F:\MyWebsite\HotspotCreator\HotspotCreator\obj\Debug\HotspotCreator.Properties.Resources.resources
+F:\MyWebsite\HotspotCreator\HotspotCreator\obj\Debug\HotspotCreator.csproj.GenerateResource.Cache
+F:\MyWebsite\HotspotCreator\HotspotCreator\obj\Debug\HotspotCreator.exe
+F:\MyWebsite\HotspotCreator\HotspotCreator\obj\Debug\HotspotCreator.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\HotspotCreator\HotspotCreator_0.0.0.2\HotspotCreator\bin\Debug\HotspotCreator.exe.config
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\HotspotCreator\HotspotCreator_0.0.0.2\HotspotCreator\obj\Debug\HotspotCreator.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\HotspotCreator\HotspotCreator_0.0.0.2\HotspotCreator\obj\Debug\HotspotCreator.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\HotspotCreator\HotspotCreator_0.0.0.2\HotspotCreator\bin\Debug\HotspotCreator.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\HotspotCreator\HotspotCreator_0.0.0.2\HotspotCreator\bin\Debug\HotspotCreator.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\HotspotCreator\HotspotCreator_0.0.0.2\HotspotCreator\obj\Debug\HotspotCreator.csprojResolveAssemblyReference.cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\HotspotCreator\HotspotCreator_0.0.0.2\HotspotCreator\obj\Debug\MainWindow.baml
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\HotspotCreator\HotspotCreator_0.0.0.2\HotspotCreator\obj\Debug\MainWindow.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\HotspotCreator\HotspotCreator_0.0.0.2\HotspotCreator\obj\Debug\App.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\HotspotCreator\HotspotCreator_0.0.0.2\HotspotCreator\obj\Debug\HotspotCreator_MarkupCompile.cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\HotspotCreator\HotspotCreator_0.0.0.2\HotspotCreator\obj\Debug\HotspotCreator.g.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\HotspotCreator\HotspotCreator_0.0.0.2\HotspotCreator\obj\Debug\HotspotCreator.Properties.Resources.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\HotspotCreator\HotspotCreator_0.0.0.2\HotspotCreator\obj\Debug\HotspotCreator.csproj.GenerateResource.Cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\HotspotCreator\HotspotCreator_0.0.0.3\HotspotCreator\bin\Debug\HotspotCreator.exe.config
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\HotspotCreator\HotspotCreator_0.0.0.3\HotspotCreator\obj\Debug\HotspotCreator.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\HotspotCreator\HotspotCreator_0.0.0.3\HotspotCreator\obj\Debug\HotspotCreator.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\HotspotCreator\HotspotCreator_0.0.0.3\HotspotCreator\obj\Debug\HotspotCreator.csprojResolveAssemblyReference.cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\HotspotCreator\HotspotCreator_0.0.0.3\HotspotCreator\obj\Debug\MainWindow.baml
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\HotspotCreator\HotspotCreator_0.0.0.3\HotspotCreator\obj\Debug\MainWindow.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\HotspotCreator\HotspotCreator_0.0.0.3\HotspotCreator\obj\Debug\App.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\HotspotCreator\HotspotCreator_0.0.0.3\HotspotCreator\obj\Debug\HotspotCreator_MarkupCompile.cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\HotspotCreator\HotspotCreator_0.0.0.3\HotspotCreator\obj\Debug\HotspotCreator.g.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\HotspotCreator\HotspotCreator_0.0.0.3\HotspotCreator\obj\Debug\HotspotCreator.Properties.Resources.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\HotspotCreator\HotspotCreator_0.0.0.3\HotspotCreator\obj\Debug\HotspotCreator.csproj.GenerateResource.Cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\HotspotCreator\HotspotCreator_0.0.0.3\HotspotCreator\bin\Debug\HotspotCreator.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\HotspotCreator\HotspotCreator_0.0.0.3\HotspotCreator\bin\Debug\HotspotCreator.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\HotspotCreator\HotspotCreator_0.0.0.3(Simple)\HotspotCreator\bin\Debug\HotspotCreator.exe.config
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\HotspotCreator\HotspotCreator_0.0.0.3(Simple)\HotspotCreator\obj\Debug\HotspotCreator.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\HotspotCreator\HotspotCreator_0.0.0.3(Simple)\HotspotCreator\obj\Debug\HotspotCreator.pdb
